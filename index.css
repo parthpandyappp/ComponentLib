@@ -109,3 +109,13 @@ hr {
 .ow{
     background-color: var(--off-white);
 }
+
+.dark-mode{
+    background-color: black;
+    color:white;
+}
+
+.dark-mode .ow{
+    background-color: var(--off-white);
+    color:black;
+}
