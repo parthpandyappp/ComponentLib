@@ -28,6 +28,7 @@ body {
 .link {
     text-decoration: none;
     border-radius: 0.5rem;
+    color:white;
 }
 
 .primary-link {
